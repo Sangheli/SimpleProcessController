@@ -1,0 +1,14 @@
+{
+    "Windows": [
+        {
+            "explorer1": "explorer",
+            "explorer2": "explorer"
+        }
+    ],
+    "Ubuntu": [
+        {
+            "gedit": "gedit",
+            "firefox": "firefox"
+        }
+    ]
+}
